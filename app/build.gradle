@@ -19,6 +19,7 @@ android {
 }
 
 dependencies {
+    compile 'de.hdodenhof:circleimageview:2.1.0'
     implementation 'com.facebook.android:account-kit-sdk:4.+'
     implementation 'com.facebook.android:facebook-login:[4,5)'
     compile 'com.facebook.android:facebook-android-sdk:[4,5)'
